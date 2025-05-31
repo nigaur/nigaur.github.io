@@ -1,4 +1,4 @@
-# Hi, You have reached GitHub website of Nitin Gaur!
+# Hi, You have reached GitHub homr of Nitin Gaur!
 
 ## Visit my AI-Enginer-Toolkit repo and add a star!
 [AI-Engineer-Toolkit](https://github.com/nigaur/ai-engineer-toolkit/)

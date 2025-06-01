@@ -4,4 +4,4 @@
 
 ## View my StackOverflow badges (until SO is alive!)     |   [StackOverflow](https://stackoverflow.com/users/1166503/nitin-gaur)
 
-## Read my articles on LinkedIn and connect with me    |   [LinkedIn](https://www.linkedin.com/in/nitingaur/)
+## Read my articles on LinkedIn and connect with me    |   [LinkedIn](https://www.linkedin.com/in/nitingaur/recent-activity/articles)
